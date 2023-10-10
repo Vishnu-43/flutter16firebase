@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "911419344649",
+    "project_id": "flutter16firebase-28adf",
+    "storage_bucket": "flutter16firebase-28adf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911419344649:android:60c9425ee6fd1441c575d8",
+        "android_client_info": {
+          "package_name": "com.flutter16firebasevishnu.flutter16firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf9lYYf2B-phEG_28Qbmq0os1JAIM-384"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
