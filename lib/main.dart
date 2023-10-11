@@ -2,6 +2,8 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter16firebase/Screens/login_page.dart';
 import 'package:flutter16firebase/Screens/profile_page.dart';
+import 'package:flutter16firebase/Screens/readdata_realtime.dart';
+import 'package:flutter16firebase/Screens/realtime_firebase.dart';
 
 void main () async{
 
@@ -13,7 +15,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: LoginGoogle(),
+      home: RealtimeRead(),
     );
   }
 }
